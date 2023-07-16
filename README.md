@@ -20,6 +20,6 @@ To run the frontend application locally, follow these steps:
    ```bash
    git clone https://github.com/kiranannadatha8/Movie-app.git
 
-2.cd your_folder
-3.npm install
-4.npm run dev
+2. cd your_folder
+3. npm install
+4. npm run dev
